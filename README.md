@@ -19,6 +19,15 @@ Based on a challenge of **Free Code Camp's:** [API Project - Time Stamp Microser
 ## Usage
 ---
 
+### Install
+
+Clone the repo then
+`npm install`
+`npm start`
+
+Open browser and type in
+`localhost:5000/`
+
 ### Example Usage:
 
 *   [https://timestampjson.glitch.me/api/timestamp/2015-12-25](https://timestampjson.glitch.me/api/timestamp/2015-12-25)
